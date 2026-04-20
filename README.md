@@ -24,20 +24,17 @@ This project presents an interactive **Sales & Revenue Analysis Dashboard** buil
 - Sales Trend Over Time
 - Sales by Region
 - Category-wise Performance
-<img src="image/Page 1 Overview Dashboard.png" width="800"/>
 
 2. Product Insights
 - Top 10 Products by Sales
 - Profit by Sub-Category
 - Discount vs Profit Analysis
 - Product-level Details (Table/Matrix)
-<img src="image/Page 2 Product & Performance Analysis.png" width="800"/>
 
 3. Geographical Analysis
 - Sales Distribution by State (Map)
 - Region-wise Sales & Profit Comparison
 - Top Products by Selected State
-<img src="image/Page 3 Geographical Analysis.png" width="800"/>
 
 📸 Dashboard Highlights
 - Interactive filters (Region, Category, Date)
